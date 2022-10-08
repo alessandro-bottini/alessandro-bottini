@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with [Adon](https://github.com/alessandro-bottini/Adon)
+- 🤝 I’m looking for help with [AdvancedTkinter](https://github.com/alessandro-bottini/AdvancedTkinter)
 
 - 💬 Ask me about **Python, SQL and C++**
 
