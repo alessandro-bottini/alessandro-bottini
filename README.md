@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **Python, SQL And Machine Learning**
 
+- 🤝 Let's work togheter on [Fiverr](https://it.fiverr.com/share/dLqrp8)
+
 - 📫 How to reach me **alessandrobottini.rm@gmail.com**
 
 - ⚡ Fun fact **I tried to use Kali Linux as main boot for 1 month.**
