@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandro-bottini&label=Profile%20views&color=ce9927&style=flat" alt="alessandro-bottini" /></p>
 <h1 align="center">Hi 👋, I'm Alessandro Bottini</h1>
 <h3 align="center">a 15 years old software and web developer</h3>
 
