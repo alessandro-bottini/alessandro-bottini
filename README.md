@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Alessandro Bottini</h1>
 <h3 align="center">a 15 years old software and web developer</h3>
 
-- 🔭 I’m currently working on [Auto-Gui](https://github.com/alessandro-bottini/Auto-Gui)
+- 🔭 I’m currently working on [**Auto-Gui**](https://github.com/alessandro-bottini/Auto-Gui)
 
 - 🌱 I’m currently learning **C++ and C#**
 
 - 💬 Ask me about **Python, SQL And Machine Learning**
 
-- 🤝 Let's work togheter on [Fiverr](https://it.fiverr.com/share/dLqrp8)
+- 🤝 Let's work togheter on [**Fiverr**](https://it.fiverr.com/share/dLqrp8)
 
 - 📫 How to reach me **alessandrobottini.rm@gmail.com**
 
