@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Auto-Gui](https://github.com/alessandro-bottini/Auto-Gui)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **C++ and C#**
 
 - 💬 Ask me about **Python, SQL And Machine Learning**
 
